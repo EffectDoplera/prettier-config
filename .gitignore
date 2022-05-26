@@ -1,0 +1,16 @@
+# compiled output
+/dist
+
+# IDEs and editors
+.idea
+.vscode
+
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+
+# System Files
+.DS_Store
