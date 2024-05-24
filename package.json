@@ -1,6 +1,6 @@
 {
   "name": "@mhld/prettier-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Shared Prettier config for my project",
   "license": "MIT",
   "publishConfig": {
@@ -10,13 +10,13 @@
   "author": "Mikhail Danshin",
   "main": "index.js",
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^3.2.5"
   },
   "peerDependencies": {
-    "prettier": "2.x"
+    "prettier": "3.x"
   },
   "engines": {
-    "node": ">=16"
+    "node": ">=18"
   },
   "keywords": [
     "prettier",
